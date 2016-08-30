@@ -11,8 +11,6 @@ $(function() {
       cache: true,
       success: function(data) {
         $avatar.attr('src', data.avatar_url);
-        var $name = $student.find('.name');
-        $name.text(data.name);
       },
       error: function() {
         $avatar.attr('src', 'https://github.com/identicons/' + username + '.png');
