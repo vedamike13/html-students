@@ -11,10 +11,10 @@ title: Student Directory
     {% assign user = user_hash[1] %}
 
     <div class="row student" data-username="{{username}}">
-      <div class="col-sm-2">
-        <img class="avatar" src=""/>
+      <div class="col-sm-3">
+        <img class="avatar img-responsive" src=""/>
       </div>
-      <div class="col-sm-10 info">
+      <div class="col-sm-9 info">
         <div>
           <a href="https://github.com/{{ username }}"><span class="gh-username">@{{ username }}</span></a>
           {% assign emoji = user.emoji | replace:':','' | replace:'+','--' %}
