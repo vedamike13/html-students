@@ -5,6 +5,7 @@ title: Student Directory
 
 Check out all the students who have taken this course:
 
+- [Spring 2017](spring-2017.html)
 - [Fall 2016](fall-2016.html)
 - [Summer 2016](summer-2016.html)
 - [Spring 2016](spring-2016.html)
