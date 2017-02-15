@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title> MY FIRST WEBPAGE</title>
+<meta charset="utf-8">
+</head>
+
+<body>
+<h1> Advantages of HTML5 </h1>
+<p>I Vedaste Rurangwa, student at HTC in Brooklyn Park am taking Html5. <br>
+Html5 is the latest evolution of HTML. It is a new version of the language<br>
+HTML, with new elements, attributes, and behaviors, and a larger set of <br>
+technologies that allows more diverse and powerful Web sites and applications.</p>
+
+<h2> What the Teacher/Instructor expect from all over us </h2>
+<p>Our teacher Mary is going to make sure everybody know how to create  <br>
+Thml5 websites and use  CSS in our work. After learning this course,every student <br>
+is expected to  build a highly creative website in less time and with less stress</p>
+</body>
+</html>
